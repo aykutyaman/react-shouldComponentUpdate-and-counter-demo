@@ -1,7 +1,10 @@
 ##shouldComponentUpdate and counter demo##
 `git clone git@github.com:aykutyaman/react-shouldComponentUpdate-and-counter-demo.git`
+
 `cd react-shouldComponentUpdate-and-counter-dem`
+
 `npm install`
+
 `npm start`
 
 Runs the app in the development mode.<br>
